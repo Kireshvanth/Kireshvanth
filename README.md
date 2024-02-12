@@ -53,7 +53,7 @@
 </p>
 
 <br>
-<!-- <h2>
+<h2>
   🛠️ Leetcode
 </h2>
 
@@ -61,5 +61,5 @@
   <a href="">
     <img height=200 align="center" src="https://leetcard.jacoblin.cool/kireshvanth?animation=true&border=3&radius=10" />
   </a>
-</div> -->
+</div>
   
