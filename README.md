@@ -37,7 +37,7 @@
   <img src="assets/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="assets/html.svg" alt="HTML" style="vertical-align:top; margin:4px">    
   <img src="assets/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
-  <img src="images/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+  <img src="assets/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   <img src="assets/react.svg" alt="react.js" style="vertical-align:top; margin:4px">
   <img src="assets/nodejs.svg" alt="node.js" style="vertical-align:top; margin:4px">
   <img src="assets/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
@@ -48,7 +48,7 @@
   <img src="assets/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
   <img src="assets/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
   <img src="assets/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
-  <img src="images/jetbrains_pycharm.svg" alt="Pycharm" style="vertical-align:top; margin:4px">
+  <img src="assets/jetbrains_pycharm.svg" alt="Pycharm" style="vertical-align:top; margin:4px">
 
 </p>
 
