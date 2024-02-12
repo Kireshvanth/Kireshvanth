@@ -3,13 +3,13 @@
 </div>
 
 <h5 align="center">
-  <code><a href=mailto:kiresh20122002@gmail.com title="Gmail"><img width="22" src="images/gmail.svg"> Gmail</a></code>
-  <code><a href="https://www.linkedin.com/in/kireshvanth-b-3357b6210/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/Kireshvanth_B" title="HackerRank Profile"><img width="22" src="images/hackerrank.svg"> HackerRank</a></code>
+  <code><a href=mailto:kiresh20122002@gmail.com title="Gmail"><img width="22" src="assets/gmail.svg"> Gmail</a></code>
+  <code><a href="https://www.linkedin.com/in/kireshvanth-b-3357b6210/" title="LinkedIn Profile"><img width="22" src="assets/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/Kireshvanth_B" title="HackerRank Profile"><img width="22" src="assets/hackerrank.svg"> HackerRank</a></code>
 </h5>
 
 <p>
-  👋 Hi there! I'm a versatile developer who excels as a Full Stack Web Developer 🌐 and an App Developer 📱. I'm always open to learning any new stacks 💻 and leveraging them to craft innovative solutions 🛠️. Let's collaborate and create something amazing together!
+  I'm a versatile developer who excels as a Full Stack Web Developer 🌐 and an App Developer 📱. I'm always open to learning any new stacks 💻 and leveraging them to craft innovative solutions 🛠️. Let's collaborate and create something amazing together!
 </p>
 
 <div align="center">
@@ -34,20 +34,22 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="assets/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  <img src="assets/html.svg" alt="HTML" style="vertical-align:top; margin:4px">    
+  <img src="assets/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
+  <img src="images/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+  <img src="assets/react.svg" alt="react.js" style="vertical-align:top; margin:4px">
+  <img src="assets/nodejs.svg" alt="node.js" style="vertical-align:top; margin:4px">
+  <img src="assets/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
+  <img src="assets/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
+  <img src="assets/dart.svg" alt="Dart" style="vertical-align:top; margin:4px">
+  <img src="assets/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+
+  <img src="assets/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
+  <img src="assets/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
+  <img src="assets/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
+  <img src="images/jetbrains_pycharm.svg" alt="Pycharm" style="vertical-align:top; margin:4px">
+
 </p>
 
 <br>
